@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1643205340 source:c:\code_langagec\projets\gestion_stocks\main.c
+	"gestion_produit.h"
+
+1643205159 c:\code_langagec\projets\gestion_stocks\gestion_produit.h
+	<stdio.h>
+
+1672743465 source:c:\projetlangagec\gestion_stocks\gestion_produit.c
+	"gestion_produit.h"
+
+1672743465 c:\projetlangagec\gestion_stocks\gestion_produit.h
+	<stdio.h>
+
+1672743465 source:c:\projetlangagec\gestion_stocks\main.c
+	"gestion_produit.h"
+
+1674039861 source:c:\codeprojet\gestion_stocks\gestion_produit.c
+	"gestion_produit.h"
+
+1674039873 c:\codeprojet\gestion_stocks\gestion_produit.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1674059140 source:c:\codeprojet\gestion_stocks\main.c
+	"gestion_produit.h"
+	"gestion_fournisseur.h"
+
+1674058937 source:c:\codeprojet\gestion_stocks\gestion_fournisseur.c
+	"gestion_fournisseur.h"
+
+1674058409 c:\codeprojet\gestion_stocks\gestion_fournisseur.h
+	"gestion_produit.h"
+
+1676295938 source:c:\users\asus\downloads\gestion_stocks_v5\gestion_stocks\gestion_fournisseur.c
+	"gestion_fournisseur.h"
+
+1676295899 c:\users\asus\downloads\gestion_stocks_v5\gestion_stocks\gestion_fournisseur.h
+	"gestion_produit.h"
+
+1676295594 c:\users\asus\downloads\gestion_stocks_v5\gestion_stocks\gestion_produit.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1676295595 source:c:\users\asus\downloads\gestion_stocks_v5\gestion_stocks\gestion_produit.c
+	"gestion_produit.h"
+
+1676307735 source:c:\users\asus\downloads\gestion_stocks_v5\gestion_stocks\main.c
+	"gestion_produit.h"
+	"gestion_fournisseur.h"
+
